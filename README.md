@@ -459,9 +459,9 @@ bug or implementing the feature.
  *  [Home Assistant add-on](https://github.com/hassio-addons/addon-adguard-home)
     by [@frenck](https://github.com/frenck).
 
- *  [OpenWrt LUCI app](https://github.com/kongfl888/luci-app-adguardhome) by
-    [@kongfl888](https://github.com/kongfl888) (originally by
-    [@rufengsuixing](https://github.com/rufengsuixing)).
+ *  [OpenWrt LUCI app](https://github.com/rootphantomer/luci-app-adguardhome) by
+    [@rootphantomer](https://github.com/rootphantomer) (originally by
+    [@rufengsuixing](https://github.com/rufengsuixing) and [@kongfl888](https://github.com/kongfl888)).
 
  *  [Prometheus exporter for AdGuard
     Home](https://github.com/ebrianne/adguard-exporter) by
